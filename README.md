@@ -26,7 +26,7 @@ _This article walks through the experiment, the results, and the conclusions._
 # What Is TOON (and How Is It Different from JSON)?
 **TOON (Terse Object-Oriented Notation** is a data serialization format designed specifically for LLM prompts. The goal is simple: reduce syntactic overhead while remaining readable for both humans and machines.
 
-![img-json-vs-toon](img/json-vs-toon.png)
+![img-json-vs-toon](img/toon_vs_json_file.png)
 
 ---
 

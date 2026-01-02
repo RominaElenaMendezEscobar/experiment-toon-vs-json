@@ -1,3 +1,7 @@
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-support%20my%20work-FFDD00?style=flat&labelColor=101010&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/r0mymendez)
+
+---
+
 # TOON vs JSON: Does It Really Save Tokens Without Losing Quality?
 _A practical benchmark comparing TOON and JSON formats for LLM prompts_
 

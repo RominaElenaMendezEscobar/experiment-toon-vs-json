@@ -2,7 +2,7 @@
 
 ---
 
-# TOON vs JSON: Does It Really Save Tokens Without Losing Quality?
+# TOON vs JSON for LLM Prompts: Can We Reduce Token Usage Without Losing Response Quality?
 _A practical benchmark comparing TOON and JSON formats for LLM prompts_
 
 |**Tags:** `llm`, `ai`, `optimization`, `python`|

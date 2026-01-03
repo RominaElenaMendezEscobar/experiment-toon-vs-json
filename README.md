@@ -21,7 +21,7 @@ That raised a few questions for me:
 * And more importantly: **does changing the format affect how an LLM interprets the data or the quality of the response**?
 
 
-Answering these questions isn’t trivial. Tokenization depends on the dataset, the structure of the data, and even the LLM itself. Still, I wanted to run a **practical benchmark** to see whether TOON is worth considering in production pipelines or if it’s just an optimization that looks good on paper.
+In this article, I aim to run a **practical benchmark** to explore whether TOON could be useful in production pipelines, in what contexts it performs best, and whether it works well across different types of JSON.
 
 _This article walks through the experiment, the results, and the conclusions._
 
